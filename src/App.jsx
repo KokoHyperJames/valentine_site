@@ -103,7 +103,7 @@ const ValentinePage = () => {
             src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif"
             alt="Bear Kiss"
           />
-          <div className="text-4xl md:text-6xl font-bold my-4">
+          <div className="text-4xl md:text-6xl font-bold my-4 text-purple-600">
             Ok Yayyyyy!!! : D
           </div>
         </>
@@ -124,7 +124,7 @@ const ValentinePage = () => {
             src="https://gifdb.com/images/high/cute-Love-bear-roses-ou7zho5oosxnpo6k.gif"
             alt="Bear with Roses"
           />
-          <h1 className="text-4xl md:text-6xl my-4 text-center">
+          <h1 className="text-4xl md:text-6xl my-4 text-center text-purple-600">
             Will Wu be Koko's Valentine? : D
           </h1>
           <div className="flex flex-wrap justify-center gap-2 items-center">
